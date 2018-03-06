@@ -1,0 +1,16 @@
+.wrap {
+	background-color: #fff;
+	padding: 20px;
+}
+
+.wrap2 {
+	background-color: #000;
+	padding: 20px;
+	color: #fff;
+}
+
+pre {
+	width: 70% ;
+	border: 1px solid #000 ;
+	white-space: pre-wrap ;
+}
